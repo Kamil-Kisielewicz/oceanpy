@@ -3,7 +3,7 @@
 import os
 import numpy as np
 
-import scitools_iris as iris
+import scitools.iris as iris
 
 from oceanpy.sphharm import utils
 from oceanpy.sst import climate
